@@ -23,7 +23,9 @@ public class Client extends ApplicationTemplate {
         this.userName = userName;
     }
 
-    @JSBody(params = { "message" }, script = "console.log(message);" + 
-    "console.log(message)" + "")
+    @JSBody(params = { "message" }, script = "function name(message) { console.log(message) };" + 
+    "name(message);" + 
+    "console.log(message);")
     public static native void log(String message);
+
 }

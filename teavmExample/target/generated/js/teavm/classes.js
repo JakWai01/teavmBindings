@@ -52,7 +52,7 @@ function CA(){Bw.call(this);this.q=null;}
 function EA(b){var c;Dz();C2();Dn();CP();c=new CA;c.q=C(2);C7(c,C(3));D0("Jakob");}
 function Eg(a){return a.q;}
 function Ep(a,b){a.q=b;}
-function D0(b){console.log(b);console.log(b);}
+function D0(b){function name(b){console.log(b);};name(b);console.log(b);}
 function Ck(){}
 function Cp(){var a=this;B.call(a);a.J=null;a.w=null;}
 function Dy(b){var c,d;if(b===null)return null;c=b.classObject;if(c===null){c=new Cp;c.w=b;d=c;b.classObject=d;}return c;}
