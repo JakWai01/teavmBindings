@@ -1,0 +1,185 @@
+.)org/teavm/classlib/java/lang/TObject.java8org/teavm/classlib/java/lang/TAbstractStringBuilder.java(org/teavm/classlib/impl/IntegerUtil.java*org/teavm/classlib/java/lang/TInteger.java,org/teavm/classlib/java/lang/TCharacter.java*org/teavm/flavour/templates/Templates.java2org/teavm/flavour/templates/AbstractComponent.java(org/teavm/jso/dom/html/HTMLDocument.java2org/teavm/flavour/widgets/ApplicationTemplate.java#com/jakobwaibel/example/Client.java(org/teavm/classlib/java/lang/TClass.java org/teavm/platform/Platform.java)org/teavm/classlib/java/lang/TString.java<org/teavm/classlib/java/lang/TIndexOutOfBoundsException.java,org/teavm/classlib/java/lang/TThrowable.java0org/teavm/classlib/java/lang/TStringBuilder.java)org/teavm/classlib/java/util/TArrays.java&org/teavm/flavour/templates/Space.java%org/teavm/flavour/templates/Slot.java,org/teavm/classlib/java/lang/TException.java)org/teavm/flavour/templates/RootSlot.java/org/teavm/classlib/java/util/TAbstractList.java,org/teavm/classlib/java/util/TArrayList.java0org/teavm/classlib/java/lang/reflect/TArray.java7org/teavm/classlib/java/lang/TNullPointerException.java;org/teavm/classlib/java/lang/TIllegalArgumentException.java=org/teavm/classlib/java/lang/TNegativeArraySizeException.javaBorg/teavm/flavour/templates/emitting/TemplatingProxyGenerator.java9org/teavm/flavour/templates/emitting/FragmentEmitter.java5org/teavm/flavour/templates/DomComponentTemplate.java9org/teavm/flavour/templates/emitting/TemplateEmitter.java'org/teavm/classlib/java/lang/TMath.javatemplates/client.html4org/teavm/flavour/components/html/TextComponent.java+org/teavm/flavour/templates/DomBuilder.java-org/teavm/classlib/java/util/TArrayDeque.java9org/teavm/classlib/java/util/TNoSuchElementException.java2org/teavm/flavour/components/html/ValueBinder.java8org/teavm/flavour/components/html/ValueChangeBinder.javaBorg/teavm/classlib/java/util/TConcurrentModificationException.java+org/teavm/flavour/templates/NodeHolder.javaorg/teavm/jso/dom/xml/Node.java*org/teavm/classlib/java/util/TObjects.java(org/teavm/classlib/java/lang/TError.java3org/teavm/classlib/java/lang/TNoSuchFieldError.java4org/teavm/classlib/java/lang/TNoSuchMethodError.javafjava.lang.Objectjava.lang.Classjava.lang.StringBuilderjava.lang.Stringorg.teavm.flavour.routing.Route-org.teavm.flavour.widgets.ApplicationTemplate/org.teavm.flavour.templates.Templates$PROXY$4_0 org.teavm.flavour.templates.Slot0org.teavm.flavour.templates.Fragment$proxy$4_0_1-org.teavm.flavour.templates.AbstractComponentjava.util.ArrayList3org.teavm.flavour.templates.Templates$RootComponentcom.jakobwaibel.example.Clientjava.lang.Integerjava.lang.Character%org.teavm.flavour.templates.Templates"java.lang.reflect.AnnotatedElementorg.teavm.jso.impl.JSorg.teavm.platform.Platformjava.io.Serializablejava.lang.Comparablejava.lang.CharSequencejava.lang.RuntimeExceptionjava.lang.Throwablejava.lang.Errorjava.lang.LinkageErrorjava.lang.NoClassDefFoundErrorjava.lang.AbstractStringBuilderjava.lang.Appendablejava.lang.Mathjava.lang.Number&java.lang.IncompatibleClassChangeErrorjava.lang.NoSuchFieldErrorjava.lang.NoSuchMethodErrorjava.lang.Exception#org.teavm.classlib.impl.IntegerUtiljava.util.Comparator&java.lang.String$<clinit>$lambda$_81_0#java.lang.IndexOutOfBoundsException)java.lang.StringIndexOutOfBoundsExceptionorg.teavm.jso.JSObjectorg.teavm.jso.dom.xml.Nodeorg.teavm.jso.dom.xml.Document$org.teavm.jso.dom.events.EventTarget#org.teavm.jso.dom.html.HTMLDocument)org.teavm.jso.dom.events.FocusEventTarget)org.teavm.jso.dom.events.MouseEventTarget,org.teavm.jso.dom.events.KeyboardEventTarget(org.teavm.jso.dom.events.LoadEventTarget'org.teavm.jso.browser.WindowEventTarget%org.teavm.jso.browser.StorageProvider org.teavm.jso.core.JSArrayReaderorg.teavm.jso.browser.Window!org.teavm.flavour.templates.Space&org.teavm.flavour.templates.NodeHolder&org.teavm.flavour.templates.Renderable%org.teavm.flavour.templates.Component0org.teavm.flavour.templates.DomComponentTemplatejava.lang.Iterablejava.util.Collectionjava.util.AbstractCollectionjava.util.Listjava.util.AbstractListjava.lang.Cloneablejava.util.RandomAccessjava.lang.reflect.Array$org.teavm.flavour.templates.RootSlot$org.teavm.flavour.templates.Fragment0org.teavm.flavour.templates.Fragment$proxy$4_0_0java.util.Arrays"java.lang.IllegalArgumentExceptionorg.teavm.jso.core.JSArrayjava.lang.NullPointerException$java.lang.NegativeArraySizeException/org.teavm.flavour.templates.DomComponentHandler;org.teavm.flavour.templates.DomComponentHandler$proxy$4_0_0&org.teavm.flavour.templates.DomBuilderjava.util.AbstractList$1)org.teavm.flavour.templates.ContainerSlotjava.util.ArrayDeque/org.teavm.flavour.components.html.TextComponent$org.teavm.flavour.templates.Modifierjava.util.Queuejava.util.Deque0org.teavm.flavour.templates.Modifier$proxy$4_0_0+org.teavm.flavour.templates.DomBuilder$Item0org.teavm.flavour.templates.Modifier$proxy$4_0_1'java.util.function.Supplier$proxy$4_0_1java.util.Objectsjava.util.function.Supplierjava.util.Iterator*org.teavm.flavour.templates.ModifierTarget)java.util.ConcurrentModificationExceptionjava.lang.IllegalStateException java.util.NoSuchElementException3org.teavm.flavour.components.html.ValueChangeBinder/org.teavm.flavour.templates.ValueChangeListener;org.teavm.flavour.templates.ValueChangeListener$proxy$4_0_0-org.teavm.flavour.components.html.ValueBinder'java.util.function.Supplier$proxy$4_0_0&org.teavm.jso.dom.events.EventListenerLorg.teavm.flavour.templates.DomBuilder$Item$createChangeListener$lambda$_6_0fuserNameqnameJplatformClassw
+charactersihashCodezmessagebBsuppressionEnabledXwritableStackTracebjbufferflengthnparentgpreviousdnextcfirstrlastvslotminnerYmodCountAarraylsizepdomNodebfproxyCapture0bcbeWhandlerUrenderablesLNstackexversionBbheadatailjSblvalueKtextSlottcachedValuebgcacheInitializedbdbiindexFboPremoveIndexbbthis$0selementkyvalueChangeListenershchangeListenerQnodeDtargetbnlistenerGboundbmbhRIbaV_0ZfgetClass()Ljava/lang/Class;=getClass(Lorg/teavm/platform/PlatformClass;)Ljava/lang/Class;toString()Ljava/lang/String;getName()Ljava/lang/String;3append(Ljava/lang/String;)Ljava/lang/StringBuilder;identity()I<init>([C)V+bind(Lorg/teavm/jso/dom/html/HTMLElement;)VQcreate(Ljava/lang/Class;Ljava/lang/Object;)Lorg/teavm/flavour/templates/Fragment;Droot(Lorg/teavm/jso/dom/xml/Node;)Lorg/teavm/flavour/templates/Slot;/create()Lorg/teavm/flavour/templates/Component;+<init>(Lorg/teavm/flavour/templates/Slot;)V,append(Lorg/teavm/flavour/templates/Space;)Vadd(Ljava/lang/Object;)Z	render()Vbind(Ljava/lang/String;)Vmain([Ljava/lang/String;)V<clinit>()VgetUserName()Ljava/lang/String; setUserName(Ljava/lang/String;)V4getPlatformClass()Lorg/teavm/platform/PlatformClass;#getComponentType()Ljava/lang/Class;Rfunction(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;ZfunctionAsObject(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;
+charAt(I)C	<init>()V	length()I
+isEmpty()Z-valueOf(Ljava/lang/Object;)Ljava/lang/String;equals(Ljava/lang/Object;)ZhashCode()I<init>(Ljava/lang/String;)V'fillInStackTrace()Ljava/lang/Throwable;4insert(ILjava/lang/String;)Ljava/lang/StringBuilder;ensureCapacity(I)Vmax(II)Imin(II)I<insert(ILjava/lang/String;)Ljava/lang/AbstractStringBuilder;eaddEventListener$exported$0(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;MaddEventListener(Ljava/lang/String;Lorg/teavm/jso/dom/events/EventListener;)VhremoveEventListener$exported$1(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;PremoveEventListener(Ljava/lang/String;Lorg/teavm/jso/dom/events/EventListener;)V@get$exported$2(Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;get(I)Lorg/teavm/jso/JSObject;ÄremoveEventListener$exported$3(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;QremoveEventListener(Ljava/lang/String;Lorg/teavm/jso/dom/events/EventListener;Z)VJdispatchEvent$exported$4(Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;0dispatchEvent(Lorg/teavm/jso/dom/events/Event;)Z.getLength$exported$5()Lorg/teavm/jso/JSObject;getLength()I}addEventListener$exported$6(Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;NaddEventListener(Ljava/lang/String;Lorg/teavm/jso/dom/events/EventListener;Z)V-getParent()Lorg/teavm/flavour/templates/Slot;,getNext()Lorg/teavm/flavour/templates/Space;	delete()VdeleteDom()V/getRoot()Lorg/teavm/flavour/templates/RootSlot;UinsertBefore(Lorg/teavm/flavour/templates/Space;Lorg/teavm/flavour/templates/Space;)V*getAllNodes(Lorg/teavm/jso/core/JSArray;)V*getFirstNode()Lorg/teavm/jso/dom/xml/Node;*create()Lorg/teavm/flavour/templates/Slot;+getSlot()Lorg/teavm/flavour/templates/Slot;iterator()Ljava/util/Iterator;
+<init>(I)VFnewInstanceImpl(Lorg/teavm/platform/PlatformClass;I)Ljava/lang/Object;get(I)Ljava/lang/Object;size()I@get$exported$0(Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;.getLength$exported$1()Lorg/teavm/jso/JSObject;	update()V3buildDom(Lorg/teavm/flavour/templates/DomBuilder;)V@open(Ljava/lang/String;)Lorg/teavm/flavour/templates/DomBuilder;@text(Ljava/lang/String;)Lorg/teavm/flavour/templates/DomBuilder;/close()Lorg/teavm/flavour/templates/DomBuilder;Wattribute(Ljava/lang/String;Ljava/lang/String;)Lorg/teavm/flavour/templates/DomBuilder;Sadd(Lorg/teavm/flavour/templates/Modifier;)Lorg/teavm/flavour/templates/DomBuilder;DopenSlot(Ljava/lang/String;)Lorg/teavm/flavour/templates/DomBuilder;Tadd(Lorg/teavm/flavour/templates/Component;)Lorg/teavm/flavour/templates/DomBuilder;
+hasNext()Znext()Ljava/lang/Object;Aopen(Ljava/lang/String;Z)Lorg/teavm/flavour/templates/DomBuilder;addFirst(Ljava/lang/Object;)VremoveFirst()Ljava/lang/Object;)appendNode(Lorg/teavm/jso/dom/xml/Node;)VpeekFirst()Ljava/lang/Object;[apply(Lorg/teavm/flavour/templates/ModifierTarget;)Lorg/teavm/flavour/templates/Renderable;%<init>(Lorg/teavm/jso/dom/xml/Node;)V getRenderables()Ljava/util/List;pollFirst()Ljava/lang/Object;peek()Ljava/lang/Object;push(Ljava/lang/Object;)Vpop()Ljava/lang/Object;0getElement()Lorg/teavm/jso/dom/html/HTMLElement;(setValue(Ljava/util/function/Supplier;)Vget()Ljava/lang/Object;-equals(Ljava/lang/Object;Ljava/lang/Object;)ZJaddValueChangeListener(Lorg/teavm/flavour/templates/ValueChangeListener;)VgetValue()Ljava/lang/String;?setListener(Lorg/teavm/flavour/templates/ValueChangeListener;)Vchanged(Ljava/lang/Object;)V.handleEvent(Lorg/teavm/jso/dom/events/Event;)VHhandleEvent$exported$0(Lorg/teavm/jso/JSObject;)Lorg/teavm/jso/JSObject;9thisabcdefghijkplatformThiselemidargsclientuserNameclsresult
+charactersindexobjotherstrmessagestringnewPreviousnewNextspaceslot	successorrootdomNodessuccessorDomNodechildnodesdomNodeinitialCapacityminCapacity	newLengthelementbuilder
+renderabletagNameitemtextnamevalue	componentmodifiernodecomputedValuelistener	listenershtmlElementnewValueÖ  	
+       &'  3 4  ( + 6 7:   <             U5V6  ]\ ]   `_
+`i ;n<o tqr 1 2 '(        -É*Ñ q rçé7, çb ,   
+ ?M RP ©™ ü† ™+ O           
+            3   .              s         
+  A  
+   	     ! 
+   
+   +   
+  G                      	   #      '	#äO19!
+)'#	3 	T	*
+	#*,		Ü&	T7&"#
+!!|	
+	
+(
+*	4		!	O			DE	'	!WP		
+
+
+	/
+*	.
+	8
+4
+
+	 
+!	D!2&%%%64R 8	 .	"O	F.	X%P		"
+).
+
+‘
+                                                                                        Q   @                                                          !                  .7 89      BABABC  09               :9  :9 :9                                         BK BM     87 0/   %&                 0/0
+       A   0/         Â+ e  #   
+      
+      )     	 =  %            3   ã         
+  S   	      9 ) 
+    	  5   
+  e                 #     	  	 +    	 % '	#	t")
+!)	Z		/	(				.		
+6		
+ 		t	."
+&# 
+
+	
+!!*	
+	
+h
+
+"	F		
+		.			(		:"		'	!
+% 				
+
+	 	
+4			
+	/	
+	
+		
+
+!	,
+			@	 8	 	
+&	M	&	%	07%		"2
+"	%(ø )êè ∏ Ÿ          : ˛  õ¢  ô -   ÆO÷jiR    
+ H	 	 	 g    	 9 èêèê çst é   ã ∆≈ / 	 ı  [        U    	 ¬ E K ∫UV) 5          Å úXW ≥∆   P Á ¿R   ª Ù     C > É Ñ   	       4    v 	 
+	      	   	           p        n o -  û π 	ÍÈ Ó  s n;<
+   # 8}Ç :9  HG  NM up)G$   Ç Ì ‡·≤± ÿ %. á⁄ Ÿ®`_   ´  	  ¢±≤±™		L=>=>©‰HGF 1 ≥¥     	 	 €ÿ◊÷ 	 D 	 ZY  	 fe óòóò 	ts po   îì D 	  €‹€‹    ∏ # 43 …  2          	( ˆ  = àá ! \  Q É     ‚=>=>±ÏHGH 9:9:±DCD O   @ 65 h E + NM & ≥ =   . IF O    w  å  8 R#$#[       J  : X '  Âv      ¶+
+	
+			i G  U O !      ; ; òèO+Z77+--8Ã    !  ) ,  %     M L M ^   g j 
+ } z + U   & '        @ S      Ã 	   	   !     & )      6 9 $ %        0 1               L M ^ a  `  _       n q z {  z + Q        & +    
+            N O          «+	+		  	    ' %   ’ >˜()%%"-6 2…$"Œ##ó9;4$    &'$%  $%456  :;@A *      + D Gz Z[h e ` a LMNM<?l    5 A 
+  r s		é Å
+P4P u  † ° " 	 8 W™ ´ † °   Ä0  Z k #  ê [ Z  Ø Ã+Q 	     
+ 	     +   	  #  W     / 	  	       
+      O               f'	
+	
+					7	
+		)			 							(	
+
+		&		I	
+	
+&#
+
+!	
+	
+6	
+
+			
+xI						
+				<N	
+	@					
+	
+
+ 	
+%	/	b				!	,
+					
+			
+
+	$		
+		F
+		
+,
+	
+≥
++ ≥  C  % 
+  #    
+      = #    	 c ' 1                 
+  E   ±     
+      q     #      m ?     	  3 % # 
+  •  #     
+  % #  ? 
+  '  A        7     +  &'
+ä
+6	R
+	*.x	
+	B	
+
+		*		
+
+
+
+≤	,
+	&#		
+		!T:
+
+p	
+		,
+
+
+2¿
+
+	6(X!,2	""!@&	.*,¥0 &	ä			#	è
+
+?++G3
+KC+
+#C
+
+á+?
+
+/
+ 
+ !:   "  *+.36?B?45< I S4 bK`yä 	%y§	;4( ±≤| ÖÜ≥¥µ∂µ∞ÖÜ∑∞ª¥ª †ãå£í	o?íª dÉ|} º[(£‰≠Æ
+g(<t+
+		
+	&#		                                :                                                 K,					
+				"$(*,.24*22226<:FHJ<LN*RTXXX\^bdf
+`&
+`hjfHj`p/,'	
+ &048>&FP<`ZVZl,+
+@Vn
+, 
+8BZ,-8/
+D,gI,gI,,,B  CpB4 BnCi Bw Df Bc66CvX*L>CQ?J$&BP
+B CA B7 Bi BK Ck Dr C6 V Bg Bx F# U
+Bz Y CT BL"CM CX BG X DF  Dp  T DE B_ CN Bj BC' P BT BW K C_ CG B8 B0 Cu Cm Cb BF Ds S*Cc6∞WBm BQ B6
+^.0Cl Be R Bh Bt=F"Cy B2 Dg ByR(Br CtV*DH Bk Dh Bv CL BY CoZ*BJd30CwíH"&LNB5 B$=n6$9;Cg
+Ä?ACEBM BZ Cn CBz*B3¢PSUCC|*Cdé*Db Bp Cz BX Cq BE# CD B1¥Y[]BS Cræ*CK¿P?CCe∆*Ca Cj dé∑  ' +   6 A  (∂Ÿ2ã	 ∏Áé∑ÿ  õY       Î        NXé√\W\åì   ÄÅ Ó ø‹≈(1 	   	   (Ê≠   
+ öô§úâ  (          	% :‘     ˝¥? Å ü   ¿ ¶°†°Z?  	  	      	 
+-  > NM.		gZ!A 
+ 8 ®i ^;8o n/] \      . 7		|∏Ö     7  ã    
+ Ü  Fäã ˛s˜·  ‡s~è≈I  	 y  )  Û  Y     S  	      ; `H   OP |≈»*Ù\   
+	 h	 - *o⁄Jw      xœ% ' œ   L)yY 	ã 	 	    (X  ∫π éÅÇqp ÅÇ X=              	"  ? <lgh,õ   ç;    
+   	       	   	 #      $  Å   8:
+        
+   &    glgv$õúù∏·= $   DJ:1 $ò@G     *  $F :9	  %)ØE !   	 # © 	 ,  *D" Ço1:$  ™ﬂ‡±?k    
+.  !l=>KLt¡x5 .l- .r- .x0_ 6^Jë 8ê_`'3  	 :  /.
+	 2^S¥Ø ;s  <tîü  > û	 @	 A@ 
+KJML/.	 
+CB    ∞Ø<ÙÎG8¯ÔC"! <Ï„E ;K 	 	    @  76 P    34—C      
+        	                  1 	      
+ 
+   D 
+  	 98	 9898   
+A B ÷ÕÄ]\ixÜï  mxyx óñ ﬁŸ  ß≤  
+
+	 HE 
+2EDu~ÒA #  	 ;     O Å 	 	 	 	 À      
+  	
+F  ! 
+ C D@ 76»«   >á¶    Pï<⁄Àﬁ
+ÃÕÃ   
+ı1 F∂/C 	 	 J 
+ B= P  ,? 	 	 @   L 3 *~.=  	 P <Äj— R – -   T .    
