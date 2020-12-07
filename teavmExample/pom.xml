@@ -29,7 +29,16 @@
       <artifactId>teavm-metaprogramming-impl</artifactId>
       <version>${teavm.version}</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.teavm</groupId>
+      <artifactId>teavm-jso</artifactId>
+      <version>0.6.1</version>
+    </dependency>
+    <dependency>
+      <groupId>org.teavm</groupId>
+      <artifactId>teavm-jso-apis</artifactId>
+      <version>0.6.1</version>
+    </dependency>    
     <dependency>
       <groupId>org.teavm.flavour</groupId>
       <artifactId>teavm-flavour-widgets</artifactId>
