@@ -7,3 +7,4 @@ function sayHi(user) {
   }
   
   export {sayHi, sayBye}; // a list of exported variables
+  module.exports = sayHi;
