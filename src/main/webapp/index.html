@@ -5,7 +5,12 @@
     <title>Enter your page title here</title>
     <script type="text/javascript" charset="UTF-8" src="teavm/classes.js"></script>
     <link rel="stylesheet" type="text/css" href="css/app.css">
-    <script src="./require.js" src="./test.js"></script>
+    <script data-main="test.js" src="require.js" ></script>
+    <script>
+      require(['test'], function() {
+        alert('after require keyword')
+      });
+    </script>
   </head>
   <body onload="main()">
     <div id="application-content"></div>

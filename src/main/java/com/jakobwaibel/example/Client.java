@@ -13,7 +13,7 @@ public class Client extends ApplicationTemplate {
         client.bind("application-content");
 
        log("Jakob");
-       log2("Felix");
+       //log2("Felix");
     }
 
     public String getUserName() {
@@ -29,7 +29,7 @@ public class Client extends ApplicationTemplate {
     "console.log(message);")
     public static native void log(String message);
 
-    @JSBody(params = { "message" }, script = "require('/sayHi')")
+    @JSBody(params = { "message" }, script = "require(['test'], function(){ alert('test') });")
     public static native void log2(String message);
 
 }
