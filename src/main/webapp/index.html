@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <title>Enter your page title here</title>
-    <script type="text/javascript" charset="UTF-8" src="teavm/classes.js"></script>
-    <link rel="stylesheet" type="text/css" href="css/app.css">
-    <script data-main="config.js" src="require.js" ></script>
-    <script>
-      require(['config', 'test'], function() {
-        alert('after require keyword')
-        require(['test']);
+    <meta charset="UTF-8" />
+    <title>TeaVM Example</title>
+    <script
+      type="text/javascript"
+      charset="UTF-8"
+      src="teavm/classes.js"
+    ></script>
+    <link rel="stylesheet" type="text/css" href="css/app.css" />
+    <script data-main="config.js" src="require.js"></script>
+     <!-- <script>
+      require(["config", "test"], function () {
+        //require(['test']);
         sayHi("Hallo");
       });
-    </script>
+    </script> -->
   </head>
   <body onload="main()">
     <div id="application-content"></div>

@@ -1,5 +1,3 @@
-alert('I am test')
-
 function sayHi(user) {
   alert(`Hello, ${user}!`);
 }
@@ -8,18 +6,18 @@ function sayBye(user) {
   alert(`Bye, ${user}!`);
 }
 
-define([], function() {
-  console.log("Hei")
+// define([], function() {
+//   console.log("Hei")
 
-  var test = {};
+//   var test = {};
 
-  test.sayHi = function(arg) {
-    console.log(arg);
-  }
+//   test.sayHi = function(arg) {
+//     console.log(arg);
+//   }
 
-  test.showAlert = function(arg) {
-    alert(arg);
-  }
+//   test.showAlert = function(arg) {
+//     alert(arg);
+//   }
 
-  return test;
-});
+//   return test;
+// });

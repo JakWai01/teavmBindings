@@ -12,8 +12,10 @@ public class Client extends ApplicationTemplate {
         Client client = new Client();
         client.bind("application-content");
 
-       log("Jakob");
-       //log2("Felix");
+    
+        // Wird doppelt geladen
+       log("normal function");
+       log2("sayHi function");
     }
 
     public String getUserName() {
@@ -29,7 +31,7 @@ public class Client extends ApplicationTemplate {
     "console.log(message);")
     public static native void log(String message);
 
-    @JSBody(params = { "message" }, script = "require(['test'], function(){ alert('test') });")
+    @JSBody(params = { "message" }, script = "require(['config', 'test'], function(message){ sayHi('Felix') });")
     public static native void log2(String message);
 
 }
