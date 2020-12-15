@@ -7,8 +7,10 @@
     <link rel="stylesheet" type="text/css" href="css/app.css">
     <script data-main="config.js" src="require.js" ></script>
     <script>
-      require(['config'], function() {
+      require(['config', 'test'], function() {
         alert('after require keyword')
+        require(['test']);
+        sayHi("Hallo");
       });
     </script>
   </head>
