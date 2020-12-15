@@ -12,10 +12,9 @@ public class Client extends ApplicationTemplate {
         Client client = new Client();
         client.bind("application-content");
 
-    
         // Wird doppelt geladen
        log("normal function");
-       log2("sayHi function");
+       log2("Nebulark");
     }
 
     public String getUserName() {
@@ -26,12 +25,11 @@ public class Client extends ApplicationTemplate {
         this.userName = userName;
     }
 
-    @JSBody(params = { "message" }, script = "function name(message) { console.log(message) };" + 
-    "name(message);" + 
-    "console.log(message);")
+    @JSBody(params = { "message" }, script = "function name(message) { console.log(message) };" +
+    "name(message)")
     public static native void log(String message);
 
-    @JSBody(params = { "message" }, script = "require(['config', 'test'], function(message){ sayHi('Felix') });")
+    @JSBody(params = { "message" }, script = "function name(message) { require(['config', 'test'], function(){ sayHi(message) }) };" + "name(message)")
     public static native void log2(String message);
 
 }

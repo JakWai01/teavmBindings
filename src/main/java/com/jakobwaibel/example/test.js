@@ -1,7 +1,7 @@
 function sayHi(user) {
-    alert(`Hello, ${user}!`);
-  }
+  console.log(user);
+ }
   
-  function sayBye(user) {
-    alert(`Bye, ${user}!`);
-  }
+function sayBye(user) {
+  alert(`Bye, ${user}!`);
+}
