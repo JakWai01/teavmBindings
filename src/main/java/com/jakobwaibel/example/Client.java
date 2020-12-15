@@ -16,6 +16,7 @@ public class Client extends ApplicationTemplate {
        log2("Nebulark");
        System.out.println(log3("asd"));
        System.out.println(log4("asd"));
+       System.out.println("" + log5(67));
     }
 
     public String getUserName() {
@@ -39,5 +40,6 @@ public class Client extends ApplicationTemplate {
     @JSBody(params = { "message" }, script = "function name(message) { return message; };")
     public static native String log4(String message);
 
-
+    @JSBody(params = { "message" }, script = "function name(message) { return new Promise(function (res) { require([\"config\", \"test\"], function () { res(add(message)); }); }); }; return name(message);")
+    public static native int log5(int message);
 }
