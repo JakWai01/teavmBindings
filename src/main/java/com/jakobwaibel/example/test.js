@@ -13,3 +13,7 @@ function add(a) {
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
+
+foo("some argument", function(result) {
+  console.log(result);
+})
